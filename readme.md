@@ -1,4 +1,4 @@
-# Day 29 Task | Cohort 2.0
+# Day 33 Task | Cohort 2.0
 
 This file contains all the **JavaScript exercises and experiments** I completed as part of **Day 29** in **Sheryians Coding School Cohort 2.0**.  
 It covers **core JavaScript concepts** including operators, hoisting, conditional statements, and logical reasoning, tested directly in the browser console.
